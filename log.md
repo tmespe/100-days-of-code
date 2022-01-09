@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 27, Monday
+### Day 1: January 9, Sunday
 
 **Today's Progress**: I've worked on implementing a Twitter search for the Umigon lexical NLP project.
 
